@@ -7,10 +7,6 @@
     "patch": 2
   },
   "tags": {
-    "previsao": {
-      "name": "Previsão",
-      "description": "Real Life Blockchain Game on Aurora."
-    }
   },
   "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x2690906609A9AF3bF08B8384CD9A0F97A88A7E9c/logo.png",
   "keywords": [
@@ -144,9 +140,9 @@
       "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xea62791aa682d455614eaA2A12Ba3d9A2fD197af/logo.png"
     },
     {
-      "name": "Previsao",
+      "name": "Previsao Token",
       "address": "0x2690906609A9AF3bF08B8384CD9A0F97A88A7E9c",
-      "symbol": "PREVISAO",
+      "symbol": "visao",
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x2690906609A9AF3bF08B8384CD9A0F97A88A7E9c/logo.png"
@@ -178,7 +174,7 @@
     {
       "name": "Jade Picon",
       "address": "0xf22A6caD2C8741Fc1D1E186a7772B2f480aa57E7",
-      "symbol": "Jade🌪",
+      "symbol": "Jade",
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xf22A6caD2C8741Fc1D1E186a7772B2f480aa57E7/logo.png"
