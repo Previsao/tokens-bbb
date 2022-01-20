@@ -246,6 +246,14 @@
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xc1BECc40aBD1CB6857F007d207AE62890245dacC/logo.png"
+    },
+    {
+      "name": "Maria",
+      "address": "0x21080461d8E5A02781Ba82aa4870E92540f6357E",
+      "symbol": "Maria🐍",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x21080461d8E5A02781Ba82aa4870E92540f6357E/logo.png"
     }
   ]
 }
