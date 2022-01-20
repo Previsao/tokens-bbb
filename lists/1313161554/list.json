@@ -59,7 +59,7 @@
         "symbol": "TRI",
         "decimals": 18,
         "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/logo.png"
       },
       {
         "name": "Aurora",
@@ -67,7 +67,7 @@
         "symbol": "AURORA",
         "decimals": 18,
         "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79/logo.png"
       },
       {
         "name": "xTRI",
@@ -75,7 +75,7 @@
         "symbol": "xTRI",
         "decimals": 18,
         "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x802119e4e253D5C19aA06A5d567C5a41596D6803/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x802119e4e253D5C19aA06A5d567C5a41596D6803/logo.png"
       },
       {
         "name": "LUNA",
@@ -83,7 +83,7 @@
         "symbol": "LUNA",
         "decimals": 18,
         "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xC4bdd27c33ec7daa6fcfd8532ddB524Bf4038096/logo.png"
       },
       {
         "name": "UST",
@@ -91,7 +91,7 @@
         "symbol": "UST",
         "decimals": 18,
         "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x5ce9F0B6AFb36135b5ddBF11705cEB65E634A9dC/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x5ce9F0B6AFb36135b5ddBF11705cEB65E634A9dC/logo.png"
       },
       {
         "name": "Avalanche",
@@ -99,7 +99,7 @@
         "symbol": "AVAX",
         "decimals": 18,
         "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844/logo.png"
       },
       {
         "name": "Polygon",
@@ -107,7 +107,7 @@
         "symbol": "MATIC",
         "decimals": 18,
         "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png"
       },
       {
         "name": "Binance Coin",
@@ -115,7 +115,7 @@
         "symbol": "BNB",
         "decimals": 18,
         "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png"
       },
       {
         "name": "Empyrean",
@@ -123,7 +123,7 @@
         "symbol": "EMPYR",
         "decimals": 9,
         "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xE9F226a228Eb58d408FdB94c3ED5A18AF6968fE1/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xE9F226a228Eb58d408FdB94c3ED5A18AF6968fE1/logo.png"
       },
       {
         "name": "Flux Token",
@@ -131,7 +131,63 @@
         "symbol": "FLX",
         "decimals": 18,
         "chainId": 1313161554,
-        "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xea62791aa682d455614eaA2A12Ba3d9A2fD197af/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xea62791aa682d455614eaA2A12Ba3d9A2fD197af/logo.png"
+      },
+      {
+        "name": "Previsao",
+        "address": "0x2690906609A9AF3bF08B8384CD9A0F97A88A7E9c",
+        "symbol": "🔮",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x2690906609A9AF3bF08B8384CD9A0F97A88A7E9c/logo.png"
+      },
+      {
+        "name": "Pedro Scooby",
+        "address": "0xdB93cCd481012bB5D1E2c8d0aF7C5f2940c00fdC",
+        "symbol": "🌊",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xdB93cCd481012bB5D1E2c8d0aF7C5f2940c00fdC/logo.png"
+      },
+      {
+        "name": "Brunna Gonçalves",
+        "address": "0xd60A384B01Ac271B68483441a06BA32b96a94ad8",
+        "symbol": "🦄",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xd60A384B01Ac271B68483441a06BA32b96a94ad8/logo.png"
+      },
+      {
+        "name": "Douglas Silva",
+        "address": "0x97369fEE7db34E0BfE47861f2ec44b4378d13eB4",
+        "symbol": "🎲",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x97369fEE7db34E0BfE47861f2ec44b4378d13eB4/logo.png"
+      },
+      {
+        "name": "Jade Picon",
+        "address": "0xf22A6caD2C8741Fc1D1E186a7772B2f480aa57E7",
+        "symbol": "🌪",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xf22A6caD2C8741Fc1D1E186a7772B2f480aa57E7/logo.png"
+      },
+      {
+        "name": "Jessilane Alves",
+        "address": "0xFa82f7B2287826d5c2b4d81cee9De07f292948F9",
+        "symbol": "🧬",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xFa82f7B2287826d5c2b4d81cee9De07f292948F9/logo.png"
+      },
+      {
+        "name": "Linn da Quebrada",
+        "address": "0x9eB33a27005Aace32711AdD63601d7AA9e7D0dc4",
+        "symbol": "🧜🏽‍♀️",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x9eB33a27005Aace32711AdD63601d7AA9e7D0dc4/logo.png"
       }
     ]
   }
