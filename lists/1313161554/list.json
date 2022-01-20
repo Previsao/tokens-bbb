@@ -250,6 +250,70 @@
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x21080461d8E5A02781Ba82aa4870E92540f6357E/logo.png"
+    },
+    {
+      "name": "Luciano Estevan",
+      "address": "0x9352377eA734dfd02fdaeDb92037aa175d55123A",
+      "symbol": "Luciano",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x9352377eA734dfd02fdaeDb92037aa175d55123A/logo.png"
+    },
+    {
+      "name": "Lucas Bissoli",
+      "address": "0xe1f142027f2A2237A65E474428aaf85f2bDF9650",
+      "symbol": "Lucas",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xe1f142027f2A2237A65E474428aaf85f2bDF9650/logo.png"
+    },
+    {
+      "name": "Arthur Aguiar",
+      "address": "0x06DBbf8298d35ce9F5762e889941D97c5f715132",
+      "symbol": "Arthur",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x06DBbf8298d35ce9F5762e889941D97c5f715132/logo.png"
+    },
+    {
+      "name": "Eliezer",
+      "address": "0x8196C8f3D150d2cD75941aECFa6B04CF0A2f48Ed",
+      "symbol": "Eliezer",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x8196C8f3D150d2cD75941aECFa6B04CF0A2f48Ed/logo.png"
+    },
+    {
+      "name": "Paulo André",
+      "address": "0x931d50603fc04DDd60D0b811608b8FA97CA287e7",
+      "symbol": "Paulo",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x931d50603fc04DDd60D0b811608b8FA97CA287e7/logo.png"
+    },
+    {
+      "name": "Natália Deodato",
+      "address": "0xf71bb17F33b1d0F250F3b1f13bDD401073fB9A56",
+      "symbol": "Natalia",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xf71bb17F33b1d0F250F3b1f13bDD401073fB9A56/logo.png"
+    },
+    {
+      "name": "Laís Caldaso",
+      "address": "0xad025C0786972e3214188Fa5644cA207fBCcb27E",
+      "symbol": "Lais",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xad025C0786972e3214188Fa5644cA207fBCcb27E/logo.png"
+    },
+    {
+      "name": "Eslovênia Marques",
+      "address": "0x4E278B8e2bE902aA8350b36E5ef76550618b22cD",
+      "symbol": "Eslo",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x4E278B8e2bE902aA8350b36E5ef76550618b22cD/logo.png"
     }
   ]
 }
