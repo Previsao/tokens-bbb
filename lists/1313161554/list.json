@@ -1,12 +1,17 @@
 {
     "name": "Previsao Token List",
-    "timestamp": "2021-09-08T15:55:12.671Z",
+    "timestamp": "2022-20-01T15:55:12.671Z",
     "version": {
       "major": 1,
       "minor": 1,
       "patch": 2
     },
-    "tags": {},
+    "tags": {
+      "previsao": {
+      "name": "Previsão",
+      "description": "Real Life Blockchain Game on Aurora."
+    }
+  },
     "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x2690906609A9AF3bF08B8384CD9A0F97A88A7E9c/logo.png",
     "keywords": [
       "previsao",
@@ -241,6 +246,6 @@
         "decimals": 18,
         "chainId": 1313161554,
         "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xc1BECc40aBD1CB6857F007d207AE62890245dacC/logo.png"
-      },
+      }
     ]
   }
