@@ -1,5 +1,5 @@
 {
-    "name": "Aurora Token List",
+    "name": "Previsao Token List",
     "timestamp": "2021-09-08T15:55:12.671Z",
     "version": {
       "major": 1,
@@ -7,10 +7,15 @@
       "patch": 2
     },
     "tags": {},
-    "logoURI": "https://pbs.twimg.com/profile_images/1390788387154628612/2etTUyhD_400x400.jpg",
+    "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x2690906609A9AF3bF08B8384CD9A0F97A88A7E9c/logo.png",
     "keywords": [
-      "uniswap",
-      "default"
+      "previsao",
+      "bigbrotherbrasil",
+      "bbb",
+      "jadepicon",
+      "pedroscooby",
+      "blockchain",
+      "game"
     ],
     "tokens": [
       {
@@ -188,6 +193,54 @@
         "decimals": 18,
         "chainId": 1313161554,
         "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x9eB33a27005Aace32711AdD63601d7AA9e7D0dc4/logo.png"
-      }
+      },
+      {
+        "name": "Lucas Bissoli",
+        "address": "0xe1f142027f2A2237A65E474428aaf85f2bDF9650",
+        "symbol": "🏄‍♂️",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xe1f142027f2A2237A65E474428aaf85f2bDF9650/logo.png"
+      },
+      {
+        "name": "Bárbara Heck",
+        "address": "0xdcA6F476EebCDE8FE8b072e3fC80dBC28dC209b3",
+        "symbol": "🦀",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xdcA6F476EebCDE8FE8b072e3fC80dBC28dC209b3/logo.png"
+      },
+      {
+        "name": "Rodrigo Mussi",
+        "address": "0xAD72c9Cbd8B618f94b652886000E436b61978D89",
+        "symbol": "🥷",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xAD72c9Cbd8B618f94b652886000E436b61978D89/logo.png"
+      },
+      {
+        "name": "Tiago Abravanel",
+        "address": "x2Ed4b1a0BBfB8199C225335D5B6F11C7D26a0Cb8",
+        "symbol": "🧸",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x2Ed4b1a0BBfB8199C225335D5B6F11C7D26a0Cb8/logo.png"
+      },
+      {
+        "name": "Vinicius",
+        "address": "0x1daaBC35EFDC6775e21CdE0436Bb5b72De7c8650",
+        "symbol": "💡",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0x1daaBC35EFDC6775e21CdE0436Bb5b72De7c8650/logo.png"
+      },
+      {
+        "name": "Naiara Azevedo",
+        "address": "0xc1BECc40aBD1CB6857F007d207AE62890245dacC",
+        "symbol": "💸",
+        "decimals": 18,
+        "chainId": 1313161554,
+        "logoURI": "https://raw.githubusercontent.com/Previsao/tokens-bbb/master/assets/0xc1BECc40aBD1CB6857F007d207AE62890245dacC/logo.png"
+      },
     ]
   }
